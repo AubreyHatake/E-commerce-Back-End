@@ -1,6 +1,11 @@
 # E-commerce-Back-End
 
-A screenshot or walk through video will live here 
+You can view the walkthrough video here: https://drive.google.com/file/d/18-N_FYTGD-CN4DZZ1gYFIwk-DZx0vCqa/view
+
+In this back end app you are able to view different tags, products, and categories from the sql database. 
+
+This screenshot shows all the products viewed on insomnia 
+![screenshot](getallproducts.jpg)
 
 ## User Story 
 AS A manager at an internet retail company
